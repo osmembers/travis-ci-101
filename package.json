@@ -1,0 +1,21 @@
+{
+  "name": "travis-ci-101",
+  "version": "1.0.0",
+  "description": "Learning Travis-ci",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "jest": "^25.2.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.tas:osmembers/travis-ci-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
